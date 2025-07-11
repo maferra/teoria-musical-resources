@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0.0000 -0.0000 119.5016 169.0094">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="159.20mm" height="49.56mm" viewBox="14.4540 15.4540 90.5936 28.2007">
 <style type="text/css">
 <![CDATA[
 tspan { white-space: pre; }
@@ -100,133 +100,93 @@ tspan { white-space: pre; }
 <g transform="translate(14.4540, 36.0169)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="90.5436" y2="0"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:41:5:6">
 <g transform="translate(76.8793, 42.1597)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>B2</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:24:5:6">
 <g transform="translate(76.8742, 28.6504)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>C4</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:24:35:36">
 <g transform="translate(77.3146, 20.0643)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Soprano</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:41:2:3">
 <g transform="translate(77.3146, 39.0169)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:41:35:36">
 <g transform="translate(77.3146, 35.4669)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Tenor</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:39:5:6">
 <g transform="translate(61.6858, 33.0119)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>E4</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:22:2:3">
 <g transform="translate(62.1058, 21.0169)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:22:5:6">
 <g transform="translate(61.7063, 19.9786)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>F5</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:39:2:3">
 <g transform="translate(62.1058, 34.0169)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:24:2:3">
 <g transform="translate(77.3146, 26.0169)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:25:2:3">
 <g transform="translate(90.6361, 20.0169)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:25:5:6">
 <g transform="translate(90.2008, 18.9786)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>A5</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:42:2:3">
 <g transform="translate(90.6361, 33.0169)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:42:5:6">
 <g transform="translate(90.1700, 31.9807)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>G4</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:19:2:3">
 <g transform="translate(33.5755, 22.0169)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:19:5:6">
 <g transform="translate(33.1094, 20.4669)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>D5</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:9:2:3">
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:18:2:3">
 <g transform="translate(20.2540, 28.0169)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:18:5:6">
 <g transform="translate(19.8545, 30.6547)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>F3</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:18:35:36">
 <g transform="translate(20.2540, 20.4669)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Contralto</tspan>
 </text>
 </g>
-</a>
 <g transform="translate(15.2540, 24.0169)">
 <path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 95 113 164c0 90 -66 179 -173 190c24 -116 46 -231 60 -354zM74 28c0 -135 129 -247 264 -247
 c28 0 55 2 82 6c-14 127 -37 245 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-3 0 -6 1 -9 2c-80 43 -117 115 -117 185c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM335 -262
@@ -234,79 +194,56 @@ c-188 0 -333 172 -333 374c0 177 131 306 248 441c-19 62 -37 125 -45 190c-6 52 -7 
 c0 -76 -33 -154 -107 -210c-22 -17 -47 -28 -73 -36c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-29 -5 -58 -8 -89 -8zM428 916c0 55 -4 79 -20 129c-99 -48 -162 -149 -162 -259
 c0 -74 18 -133 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:35:2:3">
 <g transform="translate(20.2540, 41.0169)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:35:5:6">
 <g transform="translate(19.8340, 43.6547)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>E2</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:35:35:36">
 <g transform="translate(20.2540, 35.4669)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Baixo</tspan>
 </text>
 </g>
-</a>
 <g transform="translate(15.2540, 37.0169)">
 <path transform="scale(0.0040, -0.0040)" d="M557 -125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM557 125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM232 263c172 0 293 -88 293 -251c0 -263 -263 -414 -516 -521c-3 -3 -6 -4 -9 -4c-7 0 -13 6 -13 13c0 3 1 6 4 9
 c202 118 412 265 412 493c0 120 -63 235 -171 235c-74 0 -129 -54 -154 -126c11 5 22 8 34 8c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 102 244 232 244z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:9:2:3">
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:36:2:3">
 <g transform="translate(33.5755, 35.0169)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:38:35:36">
 <g transform="translate(48.7843, 35.4669)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Barítono</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:38:5:6">
 <g transform="translate(48.3183, 42.6547)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>G2</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:36:5:6">
 <g transform="translate(33.1350, 33.9829)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>C4</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:38:2:3">
 <g transform="translate(48.7843, 40.0169)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:21:2:3">
 <g transform="translate(48.7843, 27.0169)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:21:5:6">
 <g transform="translate(48.3490, 29.6547)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>A3</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/vocal_ranges.ly:21:35:36">
 <g transform="translate(48.7843, 17.0643)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Meio</tspan>
@@ -317,5 +254,4 @@ c38 -21 72 -53 72 -96z" fill="currentColor"/>
 <tspan>Soprano</tspan>
 </text>
 </g>
-</a>
 </svg>

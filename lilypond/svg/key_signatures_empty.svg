@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0.0000 -0.0000 119.5016 169.0094">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="17.51mm" height="21.32mm" viewBox="14.4540 15.4330 9.9655 12.1296">
 <style type="text/css">
 <![CDATA[
 tspan { white-space: pre; }
@@ -32,20 +32,14 @@ c-188 0 -333 172 -333 374c0 177 131 306 248 441c-19 62 -37 125 -45 190c-6 52 -7 
 c0 -76 -33 -154 -107 -210c-22 -17 -47 -28 -73 -36c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-29 -5 -58 -8 -89 -8zM428 916c0 55 -4 79 -20 129c-99 -48 -162 -149 -162 -259
 c0 -74 18 -133 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/key_signatures_empty.ly:9:2:3">
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/key_signatures_empty.ly:20:10:11">
 <g transform="translate(16.5495, 24.7330)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>C Maior</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/key_signatures_empty.ly:24:10:11">
 <g transform="translate(16.0885, 27.5330)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>A menor</tspan>
 </text>
 </g>
-</a>
 </svg>

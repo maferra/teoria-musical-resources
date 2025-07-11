@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0.0000 -0.0000 119.5016 169.0094">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="178.19mm" height="57.17mm" viewBox="3.6461 15.4290 101.4014 32.5333">
 <style type="text/css">
 <![CDATA[
 tspan { white-space: pre; }
@@ -61,7 +61,6 @@ tspan { white-space: pre; }
 <g transform="translate(75.9290, 18.8290)">
 <rect x="-0.0650" y="-3.3750" width="0.1300" height="3.1889" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:46:8:9">
 <g transform="translate(85.7297, 27.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M170 259c-51 0 -53 -43 -53 -100v-18v-18c0 -57 2 -100 53 -100c57 0 61 51 61 118s-4 118 -61 118zM117 266c15 10 33 16 53 16c101 0 170 -46 170 -141s-69 -141 -170 -141c-112 0 -170 124 -170 250c0 128 72 250 190 250c70 0 136 -39 136 -103
 c0 -36 -29 -66 -65 -66s-66 30 -66 66c0 24 40 25 40 49c0 20 -23 31 -45 31c-66 0 -75 -65 -75 -139c0 -24 2 -48 2 -72z" fill="currentColor"/>
@@ -70,7 +69,6 @@ c0 -36 -29 -66 -65 -66s-66 30 -66 66c0 24 40 25 40 49c0 20 -23 31 -45 31c-66 0 -
 <path transform="scale(0.0040, -0.0040)" d="M261 287c25 30 44 64 44 103c0 54 -55 87 -114 87c-46 0 -73 -36 -73 -71c0 -21 10 -42 31 -54zM292 269c54 -31 80 -79 80 -125c0 -73 -66 -144 -189 -144c-94 0 -183 54 -183 140c0 50 36 87 72 123c-37 28 -55 66 -55 103c0 68 60 134 174 134c80 0 157 -39 157 -110
 c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117c54 0 86 42 86 83c0 24 -10 48 -35 62z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(75.9940, 15.4940)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
 </g>
@@ -80,48 +78,33 @@ c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117
 <g transform="translate(78.5193, 18.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:27:8:9">
 <g transform="translate(77.2801, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:44:16:17">
 <g transform="translate(77.2801, 27.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:67:27:28">
 <g transform="translate(77.2801, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:80:18:19">
 <g transform="translate(77.2323, 42.3290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>3</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:89:20:21">
 <g transform="translate(74.9447, 45.1290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Fraco</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:105:8:9">
 <g transform="translate(77.5396, 47.9290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>∙</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:47:8:9">
 <g transform="translate(89.1466, 27.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:29:8:9">
 <g transform="translate(85.7297, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M170 259c-51 0 -53 -43 -53 -100v-18v-18c0 -57 2 -100 53 -100c57 0 61 51 61 118s-4 118 -61 118zM117 266c15 10 33 16 53 16c101 0 170 -46 170 -141s-69 -141 -170 -141c-112 0 -170 124 -170 250c0 128 72 250 190 250c70 0 136 -39 136 -103
 c0 -36 -29 -66 -65 -66s-66 30 -66 66c0 24 40 25 40 49c0 20 -23 31 -45 31c-66 0 -75 -65 -75 -139c0 -24 2 -48 2 -72z" fill="currentColor"/>
@@ -130,95 +113,68 @@ c0 -36 -29 -66 -65 -66s-66 30 -66 66c0 24 40 25 40 49c0 20 -23 31 -45 31c-66 0 -
 <path transform="scale(0.0040, -0.0040)" d="M261 287c25 30 44 64 44 103c0 54 -55 87 -114 87c-46 0 -73 -36 -73 -71c0 -21 10 -42 31 -54zM292 269c54 -31 80 -79 80 -125c0 -73 -66 -144 -189 -144c-94 0 -183 54 -183 140c0 50 36 87 72 123c-37 28 -55 66 -55 103c0 68 60 134 174 134c80 0 157 -39 157 -110
 c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117c54 0 86 42 86 83c0 24 -10 48 -35 62z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:30:8:9">
 <g transform="translate(89.1466, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(83.5736, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:67:27:28">
 <g transform="translate(82.3344, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:27:14:15">
 <g transform="translate(82.3344, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M72 -250l117 326c-34 -12 -69 -22 -105 -22c-46 0 -87 33 -87 79c0 40 33 72 73 72c25 0 48 -15 56 -39c10 -28 6 -59 35 -59c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(81.0465, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
 <g transform="translate(81.0465, 18.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:67:27:28">
 <g transform="translate(79.8073, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:27:11:12">
 <g transform="translate(79.8073, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:67:27:28">
 <g transform="translate(69.7244, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:44:12:13">
 <g transform="translate(69.7244, 27.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:26:8:9">
 <g transform="translate(69.7244, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(68.4365, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
 <g transform="translate(68.4365, 18.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:67:27:28">
 <g transform="translate(67.1972, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:25:14:15">
 <g transform="translate(67.1972, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:80:14:15">
 <g transform="translate(69.6765, 42.3290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
-</a>
 <g transform="translate(65.9093, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
 <g transform="translate(65.9093, 18.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:67:27:28">
 <g transform="translate(64.6701, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:25:11:12">
 <g transform="translate(64.6701, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(3.9876, 17.8573)">
 <text font-family="Roboto Slab Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>Compasso</tspan>
@@ -229,29 +185,21 @@ c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117
 <tspan>composto:</tspan>
 </text>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:26:14:15">
 <g transform="translate(74.6898, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(73.5540, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:67:27:28">
 <g transform="translate(72.3147, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:26:11:12">
 <g transform="translate(72.3147, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M72 -250l117 326c-34 -12 -69 -22 -105 -22c-46 0 -87 33 -87 79c0 40 33 72 73 72c25 0 48 -15 56 -39c10 -28 6 -59 35 -59c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:67:27:28">
 <g transform="translate(74.6898, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(70.9636, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
@@ -267,20 +215,16 @@ c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117
 <g transform="translate(70.9636, 18.8290)">
 <rect x="-0.0650" y="-3.3750" width="0.1300" height="3.1889" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:104:8:9">
 <g transform="translate(69.9838, 47.9290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>∙</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:89:14:15">
 <g transform="translate(67.3889, 45.1290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Fraco</tspan>
 </text>
 </g>
-</a>
 <g transform="translate(28.6774, 33.8290)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.1443 -0.2000 5.1443 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
@@ -293,11 +237,9 @@ c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117
 <g transform="translate(103.0215, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:70:27:28">
 <g transform="translate(101.7823, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(100.4944, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
@@ -325,11 +267,9 @@ c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117
 <g transform="translate(63.4693, 33.8290)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.9922 -0.2000 4.9922 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:70:27:28">
 <g transform="translate(99.2552, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(51.4216, 33.8290)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.1443 -0.2000 5.1443 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
@@ -348,11 +288,9 @@ c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117
 <g transform="translate(92.9130, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:70:27:28">
 <g transform="translate(91.6738, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(90.3859, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
@@ -365,28 +303,21 @@ c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117
 <g transform="translate(90.3859, 18.8290)">
 <rect x="-0.0650" y="-3.3333" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:107:8:9">
 <g transform="translate(88.7062, 47.9290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>—</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:90:8:9">
 <g transform="translate(86.9990, 45.1290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Forte</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:81:10:11">
 <g transform="translate(89.0988, 42.3290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>1</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:69:8:9">
 <g transform="translate(85.7297, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M170 259c-51 0 -53 -43 -53 -100v-18v-18c0 -57 2 -100 53 -100c57 0 61 51 61 118s-4 118 -61 118zM117 266c15 10 33 16 53 16c101 0 170 -46 170 -141s-69 -141 -170 -141c-112 0 -170 124 -170 250c0 128 72 250 190 250c70 0 136 -39 136 -103
 c0 -36 -29 -66 -65 -66s-66 30 -66 66c0 24 40 25 40 49c0 20 -23 31 -45 31c-66 0 -75 -65 -75 -139c0 -24 2 -48 2 -72z" fill="currentColor"/>
@@ -395,17 +326,12 @@ c0 -36 -29 -66 -65 -66s-66 30 -66 66c0 24 40 25 40 49c0 20 -23 31 -45 31c-66 0 -
 <path transform="scale(0.0040, -0.0040)" d="M261 287c25 30 44 64 44 103c0 54 -55 87 -114 87c-46 0 -73 -36 -73 -71c0 -21 10 -42 31 -54zM292 269c54 -31 80 -79 80 -125c0 -73 -66 -144 -189 -144c-94 0 -183 54 -183 140c0 50 36 87 72 123c-37 28 -55 66 -55 103c0 68 60 134 174 134c80 0 157 -39 157 -110
 c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117c54 0 86 42 86 83c0 24 -10 48 -35 62z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:70:27:28">
 <g transform="translate(96.7280, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:30:14:15">
 <g transform="translate(99.2552, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(97.9673, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
@@ -415,66 +341,48 @@ c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117
 <g transform="translate(98.4823, 27.3290)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:108:8:9">
 <g transform="translate(96.9875, 47.9290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>∙</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:90:14:15">
 <g transform="translate(94.3926, 45.1290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Fraco</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:81:14:15">
 <g transform="translate(96.6802, 42.3290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:70:27:28">
 <g transform="translate(89.1466, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:47:12:13">
 <g transform="translate(96.7280, 27.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(95.4401, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
 <g transform="translate(95.4401, 18.8290)">
 <rect x="-0.0650" y="-3.3333" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:70:27:28">
 <g transform="translate(94.2009, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:30:11:12">
 <g transform="translate(94.2009, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(38.8509, 18.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:64:28:29">
 <g transform="translate(37.6117, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:22:28:29">
 <g transform="translate(37.6117, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(36.3238, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
@@ -487,42 +395,30 @@ c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117
 <g transform="translate(36.3238, 18.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:99:8:9">
 <g transform="translate(35.3441, 47.9290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>∙</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:88:14:15">
 <g transform="translate(32.7492, 45.1290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Fraco</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:79:14:15">
 <g transform="translate(35.0368, 42.3290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:64:28:29">
 <g transform="translate(35.0846, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:41:12:13">
 <g transform="translate(35.0846, 27.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:22:28:29">
 <g transform="translate(35.0846, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(33.7967, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
@@ -532,56 +428,40 @@ c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117
 <g transform="translate(43.9052, 18.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:100:8:9">
 <g transform="translate(42.4133, 47.9290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>−</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:79:18:19">
 <g transform="translate(42.6182, 42.3290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>3</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:64:28:29">
 <g transform="translate(42.6660, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:41:16:17">
 <g transform="translate(42.6660, 27.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:22:28:29">
 <g transform="translate(42.6660, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(41.3781, 18.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:64:28:29">
 <g transform="translate(40.1389, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:22:28:29">
 <g transform="translate(40.1389, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(38.8509, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:64:28:29">
 <g transform="translate(27.5032, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(28.7424, 27.8290)">
 <rect x="-0.0650" y="-3.3333" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
 </g>
@@ -596,38 +476,31 @@ c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117
 <tspan>Símbolo:</tspan>
 </text>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:98:8:9">
 <g transform="translate(27.0627, 47.9290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>—</tspan>
 </text>
 </g>
-</a>
 <g transform="translate(15.9904, 45.1290)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Ênfase:</tspan>
 </text>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:88:8:9">
 <g transform="translate(25.3556, 45.1290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Forte</tspan>
 </text>
 </g>
-</a>
 <g transform="translate(17.5269, 42.3290)">
 <text font-family="Roboto Slab Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Pulso:</tspan>
 </text>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:79:10:11">
 <g transform="translate(27.4554, 42.3290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>1</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:63:8:9">
 <g transform="translate(15.4540, 36.8290)">
 <g>
 <path transform="scale(0.0040, -0.0040)" d="M175 487c18 0 58 31 58 -3v-367c0 -48 28 -94 73 -94c8 0 12 -5 12 -11s-4 -12 -12 -12c-44 0 -87 13 -131 13s-87 -13 -131 -13c-8 0 -12 6 -12 12s4 11 12 11c45 0 73 46 73 94v245c0 12 -9 19 -17 19c-4 0 -8 -3 -10 -7l-64 -136c-3 -6 -7 -9 -12 -9
@@ -641,8 +514,6 @@ c0 174 232 166 232 344c0 59 -16 122 -67 122c-25 0 -49 -14 -49 -37c0 -27 35 -41 3
 <path transform="scale(0.0040, -0.0040)" d="M261 287c25 30 44 64 44 103c0 54 -55 87 -114 87c-46 0 -73 -36 -73 -71c0 -21 10 -42 31 -54zM292 269c54 -31 80 -79 80 -125c0 -73 -66 -144 -189 -144c-94 0 -183 54 -183 140c0 50 36 87 72 123c-37 28 -55 66 -55 103c0 68 60 134 174 134c80 0 157 -39 157 -110
 c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117c54 0 86 42 86 83c0 24 -10 48 -35 62z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:40:8:9">
 <g transform="translate(15.4540, 27.8290)">
 <g>
 <path transform="scale(0.0040, -0.0040)" d="M175 487c18 0 58 31 58 -3v-367c0 -48 28 -94 73 -94c8 0 12 -5 12 -11s-4 -12 -12 -12c-44 0 -87 13 -131 13s-87 -13 -131 -13c-8 0 -12 6 -12 12s4 11 12 11c45 0 73 46 73 94v245c0 12 -9 19 -17 19c-4 0 -8 -3 -10 -7l-64 -136c-3 -6 -7 -9 -12 -9
@@ -656,13 +527,9 @@ c0 174 232 166 232 344c0 59 -16 122 -67 122c-25 0 -49 -14 -49 -37c0 -27 35 -41 3
 <path transform="scale(0.0040, -0.0040)" d="M261 287c25 30 44 64 44 103c0 54 -55 87 -114 87c-46 0 -73 -36 -73 -71c0 -21 10 -42 31 -54zM292 269c54 -31 80 -79 80 -125c0 -73 -66 -144 -189 -144c-94 0 -183 54 -183 140c0 50 36 87 72 123c-37 28 -55 66 -55 103c0 68 60 134 174 134c80 0 157 -39 157 -110
 c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117c54 0 86 42 86 83c0 24 -10 48 -35 62z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:41:8:9">
 <g transform="translate(27.5032, 27.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:21:8:9">
 <g transform="translate(15.4540, 18.8290)">
 <g>
 <path transform="scale(0.0040, -0.0040)" d="M175 487c18 0 58 31 58 -3v-367c0 -48 28 -94 73 -94c8 0 12 -5 12 -11s-4 -12 -12 -12c-44 0 -87 13 -131 13s-87 -13 -131 -13c-8 0 -12 6 -12 12s4 11 12 11c45 0 73 46 73 94v245c0 12 -9 19 -17 19c-4 0 -8 -3 -10 -7l-64 -136c-3 -6 -7 -9 -12 -9
@@ -676,12 +543,9 @@ c0 174 232 166 232 344c0 59 -16 122 -67 122c-25 0 -49 -14 -49 -37c0 -27 35 -41 3
 <path transform="scale(0.0040, -0.0040)" d="M261 287c25 30 44 64 44 103c0 54 -55 87 -114 87c-46 0 -73 -36 -73 -71c0 -21 10 -42 31 -54zM292 269c54 -31 80 -79 80 -125c0 -73 -66 -144 -189 -144c-94 0 -183 54 -183 140c0 50 36 87 72 123c-37 28 -55 66 -55 103c0 68 60 134 174 134c80 0 157 -39 157 -110
 c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117c54 0 86 42 86 83c0 24 -10 48 -35 62z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:22:28:29">
 <g transform="translate(27.5032, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(14.3940, 27.8290)">
 <rect x="0.0000" y="-9.0500" width="0.1600" height="18.1000" ry="0.0500" fill="currentColor"/>
 </g>
@@ -700,42 +564,32 @@ c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117
 <tspan>Pulsos:</tspan>
 </text>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:64:28:29">
 <g transform="translate(30.0303, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(33.7967, 18.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:64:28:29">
 <g transform="translate(32.5575, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:22:28:29">
 <g transform="translate(32.5575, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(31.2695, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
 <g transform="translate(31.2695, 18.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:88:20:21">
 <g transform="translate(40.5184, 45.1290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Forte</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:22:28:29">
 <g transform="translate(30.0303, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(28.7424, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
@@ -748,16 +602,12 @@ c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117
 <g transform="translate(54.0137, 18.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:64:28:29">
 <g transform="translate(52.7745, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:22:28:29">
 <g transform="translate(52.7745, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(64.0493, 27.3290)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
@@ -773,14 +623,11 @@ c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117
 <g transform="translate(52.0016, 27.3290)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:80:10:11">
 <g transform="translate(62.2473, 42.3290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>1</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:66:8:9">
 <g transform="translate(58.8781, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M170 241c51 0 53 43 53 100v18v18c0 57 -2 100 -53 100c-57 0 -61 -51 -61 -118s4 -118 61 -118zM223 234c-15 -10 -33 -16 -53 -16c-101 0 -170 46 -170 141s69 141 170 141c112 0 170 -124 170 -250c0 -128 -72 -250 -190 -250c-70 0 -136 39 -136 103
 c0 36 29 66 65 66s66 -30 66 -66c0 -24 -40 -25 -40 -49c0 -20 23 -31 45 -31c66 0 75 65 75 139c0 24 -2 48 -2 72z" fill="currentColor"/>
@@ -789,13 +636,9 @@ c0 36 29 66 65 66s66 -30 66 -66c0 -24 -40 -25 -40 -49c0 -20 23 -31 45 -31c66 0 7
 <path transform="scale(0.0040, -0.0040)" d="M261 287c25 30 44 64 44 103c0 54 -55 87 -114 87c-46 0 -73 -36 -73 -71c0 -21 10 -42 31 -54zM292 269c54 -31 80 -79 80 -125c0 -73 -66 -144 -189 -144c-94 0 -183 54 -183 140c0 50 36 87 72 123c-37 28 -55 66 -55 103c0 68 60 134 174 134c80 0 157 -39 157 -110
 c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117c54 0 86 42 86 83c0 24 -10 48 -35 62z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:67:27:28">
 <g transform="translate(62.2951, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:43:8:9">
 <g transform="translate(58.8781, 27.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M170 241c51 0 53 43 53 100v18v18c0 57 -2 100 -53 100c-57 0 -61 -51 -61 -118s4 -118 61 -118zM223 234c-15 -10 -33 -16 -53 -16c-101 0 -170 46 -170 141s69 141 170 141c112 0 170 -124 170 -250c0 -128 -72 -250 -190 -250c-70 0 -136 39 -136 103
 c0 36 29 66 65 66s66 -30 66 -66c0 -24 -40 -25 -40 -49c0 -20 23 -31 45 -31c66 0 75 65 75 139c0 24 -2 48 -2 72z" fill="currentColor"/>
@@ -804,20 +647,14 @@ c0 36 29 66 65 66s66 -30 66 -66c0 -24 -40 -25 -40 -49c0 -20 23 -31 45 -31c66 0 7
 <path transform="scale(0.0040, -0.0040)" d="M261 287c25 30 44 64 44 103c0 54 -55 87 -114 87c-46 0 -73 -36 -73 -71c0 -21 10 -42 31 -54zM292 269c54 -31 80 -79 80 -125c0 -73 -66 -144 -189 -144c-94 0 -183 54 -183 140c0 50 36 87 72 123c-37 28 -55 66 -55 103c0 68 60 134 174 134c80 0 157 -39 157 -110
 c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117c54 0 86 42 86 83c0 24 -10 48 -35 62z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:89:8:9">
 <g transform="translate(60.1474, 45.1290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Forte</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:44:8:9">
 <g transform="translate(62.2951, 27.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:24:8:9">
 <g transform="translate(58.8781, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M170 241c51 0 53 43 53 100v18v18c0 57 -2 100 -53 100c-57 0 -61 -51 -61 -118s4 -118 61 -118zM223 234c-15 -10 -33 -16 -53 -16c-101 0 -170 46 -170 141s69 141 170 141c112 0 170 -124 170 -250c0 -128 -72 -250 -190 -250c-70 0 -136 39 -136 103
 c0 36 29 66 65 66s66 -30 66 -66c0 -24 -40 -25 -40 -49c0 -20 23 -31 45 -31c66 0 75 65 75 139c0 24 -2 48 -2 72z" fill="currentColor"/>
@@ -826,51 +663,38 @@ c0 36 29 66 65 66s66 -30 66 -66c0 -24 -40 -25 -40 -49c0 -20 23 -31 45 -31c66 0 7
 <path transform="scale(0.0040, -0.0040)" d="M261 287c25 30 44 64 44 103c0 54 -55 87 -114 87c-46 0 -73 -36 -73 -71c0 -21 10 -42 31 -54zM292 269c54 -31 80 -79 80 -125c0 -73 -66 -144 -189 -144c-94 0 -183 54 -183 140c0 50 36 87 72 123c-37 28 -55 66 -55 103c0 68 60 134 174 134c80 0 157 -39 157 -110
 c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117c54 0 86 42 86 83c0 24 -10 48 -35 62z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:25:8:9">
 <g transform="translate(62.2951, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M72 -250l117 326c-34 -12 -69 -22 -105 -22c-46 0 -87 33 -87 79c0 40 33 72 73 72c25 0 48 -15 56 -39c10 -28 6 -59 35 -59c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:103:8:9">
 <g transform="translate(61.8546, 47.9290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>—</tspan>
 </text>
 </g>
-</a>
 <g transform="translate(56.5409, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
 <g transform="translate(56.5409, 18.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:64:28:29">
 <g transform="translate(55.3017, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:22:28:29">
 <g transform="translate(55.3017, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(46.4323, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
 <g transform="translate(46.4323, 18.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:64:28:29">
 <g transform="translate(45.1931, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:22:28:29">
 <g transform="translate(45.1931, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(43.9052, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
@@ -880,42 +704,30 @@ c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117
 <g transform="translate(51.4866, 18.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:101:8:9">
 <g transform="translate(50.5069, 47.9290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>∙</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:88:26:27">
 <g transform="translate(47.9120, 45.1290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Fraco</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:79:22:23">
 <g transform="translate(50.1996, 42.3290)">
 <text font-family="Roboto Light" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:64:28:29">
 <g transform="translate(50.2474, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:41:20:21">
 <g transform="translate(50.2474, 27.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:22:28:29">
 <g transform="translate(50.2474, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(63.5343, 36.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
@@ -925,14 +737,10 @@ c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117
 <g transform="translate(48.9595, 18.8290)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:64:28:29">
 <g transform="translate(47.7203, 36.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/meter_accents_compound.ly:22:28:29">
 <g transform="translate(47.7203, 18.8290)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-</a>
 </svg>

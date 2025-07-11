@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0.0000 -0.0000 119.5016 169.0094">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="189.13mm" height="38.64mm" viewBox="7.6083 15.4540 107.6244 21.9866">
 <style type="text/css">
 <![CDATA[
 tspan { white-space: pre; }
@@ -82,150 +82,105 @@ tspan { white-space: pre; }
 <g transform="translate(14.4540, 34.5657)">
 <rect x="5.3095" y="-0.1000" width="2.9430" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:23:6:7">
 <g transform="translate(93.1143, 18.9990)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:23:8:9">
 <g transform="translate(96.1591, 18.4990)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:30:12:13">
 <g transform="translate(92.7295, 25.4949)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>D5</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:30:7:8">
 <g transform="translate(87.9092, 25.4949)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>[C5]</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:23:3:4">
 <g transform="translate(89.1134, 19.4990)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:22:4:5">
 <g transform="translate(70.1611, 22.4990)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:30:27:28">
 <g transform="translate(101.6252, 25.4949)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>G5</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:23:14:15">
 <g transform="translate(102.0270, 17.4990)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:30:17:18">
 <g transform="translate(95.9110, 25.4949)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>E5</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:30:22:23">
 <g transform="translate(98.8193, 25.4949)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>F5</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:23:11:12">
 <g transform="translate(99.0163, 17.9990)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:29:22:23">
 <g transform="translate(75.8662, 25.4949)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>F4</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:22:9:10">
 <g transform="translate(76.0631, 21.4990)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:29:17:18">
 <g transform="translate(72.9579, 25.4949)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>E4</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:22:6:7">
 <g transform="translate(73.2060, 21.9990)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:29:12:13">
 <g transform="translate(69.7764, 25.4949)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>D4</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:29:32:33">
 <g transform="translate(81.8877, 25.4949)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>A4</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:29:37:38">
 <g transform="translate(84.8984, 25.4949)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>B4</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:22:16:17">
 <g transform="translate(85.1978, 19.9990)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:22:14:15">
 <g transform="translate(82.1871, 20.4990)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:29:27:28">
 <g transform="translate(78.6721, 25.4949)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>G4</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:22:12:13">
 <g transform="translate(79.0739, 20.9990)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:37:20:21">
 <g transform="translate(62.2447, 30.5657)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M4.7418 -1.4427C4.8184 -1.5274 4.8896 -1.6184 4.9548 -1.7156L4.9548 -1.7156C4.8889 -1.6272 4.8169 -1.5444 4.7396 -1.4673z"/>
 </g>
@@ -244,8 +199,6 @@ c38 -21 72 -53 72 -96z" fill="currentColor"/>
 <g transform="translate(62.2447, 30.5657)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.0392 -1.3656C1.1162 -1.2811 1.1984 -1.2038 1.2850 -1.1337L1.2828 -1.1583C1.1969 -1.2209 1.1154 -1.2899 1.0392 -1.3656z"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:37:10:11">
 <g transform="translate(50.2529, 30.5657)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M3.6572 0.3804C3.7524 0.3147 3.8399 0.2417 3.9176 0.1615L3.9176 0.1615C3.8381 0.2277 3.7492 0.2884 3.6527 0.3433z"/>
 </g>
@@ -258,8 +211,6 @@ c38 -21 72 -53 72 -96z" fill="currentColor"/>
 <g transform="translate(50.2529, 30.5657)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.0605 0.5115C1.1588 0.5701 1.2643 0.6195 1.3751 0.6600L1.3705 0.6229C1.2610 0.5932 1.1570 0.5561 1.0605 0.5115z"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:37:2:3">
 <g transform="translate(39.2916, 30.5657)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M4.8051 1.7663C4.8773 1.6966 4.9437 1.6227 5.0036 1.5450L5.0036 1.5450C4.9423 1.6140 4.8745 1.6797 4.8011 1.7419z"/>
 </g>
@@ -278,8 +229,6 @@ c38 -21 72 -53 72 -96z" fill="currentColor"/>
 <g transform="translate(39.2916, 30.5657)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.0881 2.1950C1.1699 2.2492 1.2567 2.2976 1.3475 2.3403L1.3435 2.3159C1.2539 2.2807 1.1685 2.2404 1.0881 2.1950z"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:36:8:9">
 <g transform="translate(27.2998, 30.5657)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M3.7022 3.8159C3.7940 3.7341 3.8776 3.6437 3.9508 3.5450L3.9508 3.5450C3.8751 3.6298 3.7894 3.7080 3.6958 3.7791z"/>
 </g>
@@ -292,8 +241,6 @@ c38 -21 72 -53 72 -96z" fill="currentColor"/>
 <g transform="translate(27.2998, 30.5657)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.0937 4.0450C1.1962 4.1130 1.3055 4.1696 1.4196 4.2153L1.4131 4.1785C1.3009 4.1435 1.1938 4.0991 1.0937 4.0450z"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:22:8:9">
 <g transform="translate(73.2060, 19.9990)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M3.7022 2.8159C3.7940 2.7341 3.8776 2.6437 3.9508 2.5450L3.9508 2.5450C3.8751 2.6298 3.7894 2.7080 3.6958 2.7791z"/>
 </g>
@@ -306,8 +253,6 @@ c38 -21 72 -53 72 -96z" fill="currentColor"/>
 <g transform="translate(73.2060, 19.9990)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.0937 3.0450C1.1962 3.1130 1.3055 3.1696 1.4196 3.2153L1.4131 3.1785C1.3009 3.1435 1.1938 3.0991 1.0937 3.0450z"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:23:2:3">
 <g transform="translate(85.1978, 19.9990)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M4.8051 0.7663C4.8773 0.6966 4.9437 0.6227 5.0036 0.5450L5.0036 0.5450C4.9423 0.6140 4.8745 0.6797 4.8011 0.7419z"/>
 </g>
@@ -326,8 +271,6 @@ c38 -21 72 -53 72 -96z" fill="currentColor"/>
 <g transform="translate(85.1978, 19.9990)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.0881 1.1950C1.1699 1.2492 1.2567 1.2976 1.3475 1.3403L1.3435 1.3159C1.2539 1.2807 1.1685 1.2404 1.0881 1.1950z"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:23:10:11">
 <g transform="translate(96.1591, 19.9990)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M3.6572 -0.6196C3.7524 -0.6853 3.8399 -0.7583 3.9176 -0.8385L3.9176 -0.8385C3.8381 -0.7723 3.7492 -0.7116 3.6527 -0.6567z"/>
 </g>
@@ -340,8 +283,6 @@ c38 -21 72 -53 72 -96z" fill="currentColor"/>
 <g transform="translate(96.1591, 19.9990)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.0605 -0.4885C1.1588 -0.4299 1.2643 -0.3805 1.3751 -0.3400L1.3705 -0.3771C1.2610 -0.4068 1.1570 -0.4439 1.0605 -0.4885z"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:23:20:21">
 <g transform="translate(108.1509, 19.9990)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M4.7736 -2.8378C4.8480 -2.8923 4.9169 -2.9500 4.9794 -3.0107L4.9794 -3.0107C4.9157 -2.9588 4.8458 -2.9093 4.7705 -2.8623z"/>
 </g>
@@ -360,141 +301,98 @@ c38 -21 72 -53 72 -96z" fill="currentColor"/>
 <g transform="translate(108.1509, 19.9990)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.0638 -2.5107C1.1433 -2.4681 1.2277 -2.4300 1.3165 -2.3963L1.3134 -2.4208C1.2256 -2.4470 1.1421 -2.4769 1.0638 -2.5107z"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:30:44:45">
 <g transform="translate(110.8623, 25.4949)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>[C6]</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:23:21:22">
 <g transform="translate(112.0665, 15.9990)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:30:37:38">
 <g transform="translate(107.8516, 25.4949)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>B5</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:23:18:19">
 <g transform="translate(108.1509, 16.4990)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:30:32:33">
 <g transform="translate(104.8408, 25.4949)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>A5</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:23:16:17">
 <g transform="translate(105.1402, 16.9990)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:42:27:28">
 <g transform="translate(32.7658, 37.0654)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>G2</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:36:12:13">
 <g transform="translate(33.1676, 32.5657)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:42:22:23">
 <g transform="translate(29.9600, 37.0654)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>F2</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:36:9:10">
 <g transform="translate(30.1569, 33.0657)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:42:17:18">
 <g transform="translate(27.0516, 37.0654)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>E2</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:36:6:7">
 <g transform="translate(27.2998, 33.5657)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:43:7:8">
 <g transform="translate(42.0029, 37.0654)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>[C3]</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:37:3:4">
 <g transform="translate(43.2071, 31.0657)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:42:37:38">
 <g transform="translate(38.9922, 37.0654)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>B2</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:36:16:17">
 <g transform="translate(39.2916, 31.5657)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:42:32:33">
 <g transform="translate(35.9815, 37.0654)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>A2</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:36:14:15">
 <g transform="translate(36.2808, 32.0657)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(14.3940, 25.2824)">
 <rect x="0.0000" y="-7.3334" width="0.1600" height="14.6667" ry="0.0500" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:14:2:3">
-</a>
 <g transform="translate(15.2540, 29.5657)">
 <path transform="scale(0.0040, -0.0040)" d="M557 -125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM557 125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM232 263c172 0 293 -88 293 -251c0 -263 -263 -414 -516 -521c-3 -3 -6 -4 -9 -4c-7 0 -13 6 -13 13c0 3 1 6 4 9
 c202 118 412 265 412 493c0 120 -63 235 -171 235c-74 0 -129 -54 -154 -126c11 5 22 8 34 8c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 102 244 232 244z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:36:2:3">
 <g transform="translate(20.2540, 34.5657)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:14:2:3">
-</a>
 <g transform="translate(15.2540, 20.9990)">
 <path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 95 113 164c0 90 -66 179 -173 190c24 -116 46 -231 60 -354zM74 28c0 -135 129 -247 264 -247
 c28 0 55 2 82 6c-14 127 -37 245 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-3 0 -6 1 -9 2c-80 43 -117 115 -117 185c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM335 -262
@@ -511,128 +409,90 @@ c136 -152 184 -348 184 -552c0 -292 -112 -576 -112 -856c0 -152 36 -292 140 -404c1
 <tspan>Piano</tspan>
 </text>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:42:12:13">
 <g transform="translate(23.8702, 37.0654)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>D2</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:36:4:5">
 <g transform="translate(24.2549, 34.0657)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:42:7:8">
 <g transform="translate(19.0498, 37.0654)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>[C2]</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:37:18:19">
 <g transform="translate(62.2447, 28.0657)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:43:32:33">
 <g transform="translate(58.9346, 37.0654)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>A3</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:37:16:17">
 <g transform="translate(59.2339, 28.5657)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:43:37:38">
 <g transform="translate(61.9453, 37.0654)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>B3</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:43:27:28">
 <g transform="translate(55.7190, 37.0654)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>G3</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:43:44:45">
 <g transform="translate(64.9561, 37.0654)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>[C4]</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:37:14:15">
 <g transform="translate(56.1208, 29.0657)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:37:21:22">
 <g transform="translate(66.1602, 27.5657)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:29:7:8">
 <g transform="translate(64.9561, 25.4949)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>[C4]</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:22:2:3">
 <g transform="translate(66.1602, 22.9990)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:43:22:23">
 <g transform="translate(52.9131, 37.0654)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>F3</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:37:6:7">
 <g transform="translate(47.2080, 30.5657)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:43:12:13">
 <g transform="translate(46.8233, 37.0654)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>D3</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:37:8:9">
 <g transform="translate(50.2529, 30.0657)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:43:17:18">
 <g transform="translate(50.0048, 37.0654)">
 <text font-family="Roboto Light" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>E3</tspan>
 </text>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/mfe39/Desktop/artifact/teoria-musical-resources-main/teoria-musical-resources-main/lilypond/grand_stave_middle_c.ly:37:11:12">
 <g transform="translate(53.1100, 29.5657)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-50 0 -69 -43 -69 -88c0 -77 57 -136 134 -136c50 0 69 43 69 88c0 77 -57 136 -134 136zM491 0c0 -43 -34 -75 -72 -96c-53 -29 -114 -40 -174 -40s-120 11 -173 40c-38 21 -72 53 -72 96s34 75 72 96c53 29 113 40 173 40s121 -11 174 -40
 c38 -21 72 -53 72 -96z" fill="currentColor"/>
 </g>
-</a>
 </svg>
