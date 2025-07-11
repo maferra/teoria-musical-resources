@@ -1,6 +1,6 @@
 # teoria-musical-resources
 
-Resource files for my freely available Portuguese-written music theory book at [www.teoria-musical.com](https://www.teoria-musical.com/)
+Resource files for my freely available Portuguese-written music theory book at [teoria-musical.com](https://teoria-musical.com/)
 
 Remarkable software used:
 
