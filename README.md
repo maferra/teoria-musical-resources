@@ -10,7 +10,7 @@ Remarkable software used:
 
 House-keeping (for reference. not needed usually)
 
-Update .ly input files to the latest version
+Update .ly input files in-place to the latest version (and make a numbered backup)
 ```
 for /r %i in (*.ly) do convert-ly.py -b -e %i
 ```
